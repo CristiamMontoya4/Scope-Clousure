@@ -1,0 +1,12 @@
+{
+  "name": "closures-y-scope",
+  "version": "1.0.0",
+  "description": "En este repositorio, almaceno distintos archivos de javascript, lleno de comentarios para explicar el scope y closure. Este es un tema muy importante en javascript, po eso hay que reforzarlo .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
