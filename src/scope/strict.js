@@ -6,7 +6,8 @@
 pi = 3.1416; // aquí se "reasignaria"
 console.log(pi);
 
-'use strict';  //con esto no se hara uso del hoisting
+//se declara en la cabeza del documento
+'use strict';  //con esto no se hara uso del hoisting, con una vez ser declarado es suficiente
 euler = 2.7182818;
 console.log(euler); // error, primero debe declararse y si se quiere reasignarla
 
