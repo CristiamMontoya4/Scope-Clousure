@@ -23,3 +23,9 @@ De estos existen tres tipos:
 
 JavaScript toma los objetos y funciones tambien como variables, por ello
 les afecta de la misma manera el scope
+
+> [!NOTE]
+> Anotaciones del curso
+>
+> En este enlace se encuentra apuntes de manera organizada sobre el curso de closure y scope
+> [Este es el enlace](https://whip-soil-3b5.notion.site/Curso-de-Closures-y-Scope-en-JavaScript-d7e0a5f9273b439bb278e6ce6f97db5e)
