@@ -2,7 +2,7 @@
 // el modo estricto permite dar unas reglas para tener control de asignación de variables
 // para cumplir la mayor de los estandares, ya que no aplican bien unos conceptos
 
-//asigna vaor pero se salta la declaración, en este caso interpreta que se declara var pi = undefined
+//asigna valor pero se salta la declaración, en este caso interpreta que se declara var pi = undefined
 pi = 3.1416; // aquí se "reasignaria"
 console.log(pi);
 
